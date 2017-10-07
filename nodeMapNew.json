@@ -5,7 +5,7 @@
         "data": {
           "id": "A",
           "station_name": "A",
-          "close_ymd": "",
+          "close_ymd": "a",
           "post": "",
           "e_status": 0,
           "open_ymd": "",
